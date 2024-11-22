@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="What model is the Medical Scooter?">5e8e869dc3425210b1145a02b4013102</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 18:23:57</sys_created_on>
+        <sys_id>aa8f0addc3425210b1145a02b4013192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maxima 3</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope>
+        <sys_update_name>question_choice_aa8f0addc3425210b1145a02b4013192</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 18:23:57</sys_updated_on>
+        <text>Maxima 3</text>
+        <value>maxima_3</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=aa8f0addc3425210b1145a02b4013192"/>
+</record_update>

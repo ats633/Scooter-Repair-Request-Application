@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Medical Scooters">e3dd065dc3425210b1145a02b4013144</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 18:24:27</sys_created_on>
+        <sys_id>42afcaddc3425210b1145a02b401316e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.Medical Scooters</sys_name>
+        <sys_package display_value="Scooter Repair Requests" source="x_1544801_srr">e68a8389c3fd1210b1145a02b401318f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_42afcaddc3425210b1145a02b401316e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 18:24:41</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</application>
+        <file_path/>
+        <instance_id>f7ed300adb56fd1037d72a5913961980</instance_id>
+        <instance_name>dev205152</instance_name>
+        <name>sc_cat_item_catalog_42afcaddc3425210b1145a02b401316e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Medical Scooters">e3dd065dc3425210b1145a02b4013144</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-22 18:24:27</sys_created_on><sys_id>42afcaddc3425210b1145a02b401316e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.Medical Scooters</sys_name><sys_package display_value="Scooter Repair Requests" source="x_1544801_srr">e68a8389c3fd1210b1145a02b401318f</sys_package><sys_policy/><sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope><sys_update_name>sc_cat_item_catalog_42afcaddc3425210b1145a02b401316e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-22 18:24:41</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1272155540</payload_hash>
+        <record_name>Service Catalog.Medical Scooters</record_name>
+        <reverted_from/>
+        <source>d5bf4eddc3425210b1145a02b4013103</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 18:24:41</sys_created_on>
+        <sys_id>9dbf4eddc3425210b1145a02b401318b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193551e7b280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 18:24:41</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>11bf4edd034252107e016d09c516648b</update_guid>
+        <update_guid_history>11bf4edd034252107e016d09c516648b:1272155540</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Medical Scooters">0268cf15c3865210b1145a02b40131d4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 22:32:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>102de66e7c0446cab1a05ce8aae82a64</sys_id>
+        <sys_metadata>42afcaddc3425210b1145a02b401316e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Medical Scooters</sys_name>
+        <sys_package display_value="Scooter Repair Requests" source="x_1544801_srr">e68a8389c3fd1210b1145a02b401318f</sys_package>
+        <sys_parent display_value="">e3dd065dc3425210b1145a02b4013144</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope>
+        <sys_scope_delete display_value="">2f4cabe4e46140e8922f8bca4a917fa4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_42afcaddc3425210b1145a02b401316e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_42afcaddc3425210b1145a02b401316e">9dbf4eddc3425210b1145a02b401318b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 22:32:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
