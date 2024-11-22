@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Scooter Repair Request">f66ca2d1c3065210b1145a02b4013163</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 22:24:32</sys_created_on>
+        <sys_id>fa960791c3865210b1145a02b40131c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scooter Repair Request.Users with 'Scooter Repair Requests User' role</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fa960791c3865210b1145a02b40131c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 22:24:32</sys_updated_on>
+        <user_criteria display_value="Users with 'Scooter Repair Requests User' role">b1d326d5c3c25210b1145a02b401318c</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</application>
+        <file_path/>
+        <instance_id>f7ed300adb56fd1037d72a5913961980</instance_id>
+        <instance_name>dev205152</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_fa960791c3865210b1145a02b40131c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Scooter Repair Request">f66ca2d1c3065210b1145a02b4013163</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-22 22:24:32</sys_created_on><sys_id>fa960791c3865210b1145a02b40131c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Scooter Repair Request.Users with 'Scooter Repair Requests User' role</sys_name><sys_package/><sys_policy/><sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_fa960791c3865210b1145a02b40131c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-22 22:24:32</sys_updated_on><user_criteria display_value="Users with 'Scooter Repair Requests User' role">b1d326d5c3c25210b1145a02b401318c</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-458503196</payload_hash>
+        <record_name>Scooter Repair Request.Users with 'Scooter Repair Requests User' role</record_name>
+        <reverted_from/>
+        <source>bca64791c3865210b1145a02b4013155</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 22:24:40</sys_created_on>
+        <sys_id>7ca64791c3865210b1145a02b40131b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19355fa33b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 22:24:40</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>70a647914d865210de1c5e70722675b5</update_guid>
+        <update_guid_history>70a647914d865210de1c5e70722675b5:-458503196,3ca6479199865210b2ad0dd47c0ccbb1:1688656106</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Scooter Repair Request.Users with 'Scooter Repair Requests User' role">ab18c715c3865210b1145a02b40131e7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 22:31:08</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>2c6a7a4d44534af3b9543296777ce869</sys_id>
+        <sys_metadata>fa960791c3865210b1145a02b40131c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Scooter Repair Request.Users with 'Scooter Repair Requests User' role</sys_name>
+        <sys_package/>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Scooter Repair Requests">e68a8389c3fd1210b1145a02b401318f</sys_scope>
+        <sys_scope_delete display_value="">2f4cabe4e46140e8922f8bca4a917fa4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_fa960791c3865210b1145a02b40131c8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_fa960791c3865210b1145a02b40131c8">7ca64791c3865210b1145a02b40131b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 22:31:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
